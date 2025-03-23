@@ -1,1 +1,1 @@
-followed the lab procedures and checked for errors and found 5, i had to change line 18 and line 23 to <section></section> to <div></div>
+followed the lab procedures and checked for errors and found 5, i had to changes and still got the error saying heading should be from h1 to h6 and the moment i changed line 18 and line 23 from <section></section> to <div></div> the error was gone
