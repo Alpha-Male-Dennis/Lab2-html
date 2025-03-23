@@ -1,0 +1,1 @@
+followed the lab procedures and checked for errors and found 5, i had to change line 18 and line 23 to <section></section> to <div></div>
